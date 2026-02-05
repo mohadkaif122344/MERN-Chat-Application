@@ -8,10 +8,10 @@ Supports one-to-one chat, image sharing, online status, unread messages, and res
 ## 🚀 Live Demo
 
 - **Frontend Live Link:**  
-  👉 https://your-frontend-live-link.com
+  👉 [https://your-frontend-live-link.com](https://mern-chat-application-sepia.vercel.app/)
 
 - **Backend API Live Link:**  
-  👉 https://your-backend-live-link.com
+  👉[ https://your-backend-live-link.com](https://backend-mern-chat-application.onrender.com/)
 
 ---
 
