@@ -50,6 +50,7 @@ Supports one-to-one chat, image sharing, online status, unread messages, and res
 ---
 
 ## 📁 Project Structure
+
 root
 │
 ├── frontend
