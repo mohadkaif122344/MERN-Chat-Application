@@ -63,15 +63,10 @@ root
 │ └── package.json
 │
 ├── backend
-|
 │ ├── controllers
-| |
 │ ├── models
-| |
 │ ├── routes
-| |
 | ├── middleware
-| |
 |  └── server.js
 
 
