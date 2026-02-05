@@ -4,3 +4,7 @@ node_modules
 frontend/.env
 backend/.env
 
+
+
+M backend/routes/chat.js
+M frontend/src/App.jsx
