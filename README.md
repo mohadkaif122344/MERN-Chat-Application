@@ -14,7 +14,7 @@ Supports one-to-one chat, image sharing, online status, unread messages, and res
   👉[ https://your-backend-live-link.com](https://backend-mern-chat-application.onrender.com/)
   
 <img width="1918" height="1014" alt="Screenshot 2026-02-05 004622" src="https://github.com/user-attachments/assets/fb8b8312-3222-4560-8110-ced371688839" />
-<img width="1918" height="1014" alt="Screenshot 2026-02-05 004622" src="https://github.com/user-attachments/assets/fb8b8312-3222-4560-8110-ced371688839" />
+
 
 ---
 
@@ -104,5 +104,5 @@ CLOUDINARY_API_SECRET=your_api_secret
 📸 Screenshots
 
 <img width="1900" height="1015" alt="Screenshot 2026-02-05 002535" src="https://github.com/user-attachments/assets/a36cb0fc-98b9-48a8-9d17-a22f48eebdf1" />
-<img width="1900" height="1015" alt="Screenshot 2026-02-05 002535" src="https://github.com/user-attachments/assets/a36cb0fc-98b9-48a8-9d17-a22f48eebdf1" />
+
 
