@@ -100,7 +100,7 @@ const ChatContainer = () => {
               />
             ) : (
               <p
-                className={`p-2 max-w-50 md:text-sm font-light rounded-lg mb-8 bg-violet-500/30 text-white ${msg.senderId === authUser._id ? "rounded-br-none" : "rounded-bl-none"}`}
+                className={`p-2 max-w-50 md:text-sm font-light rounded-lg mb-8  text-white ${msg.senderId === authUser._id ? "bg-violet-500/30 rounded-br-none" : "bg-violet-400 rounded-bl-none"}`}
               >
                 {msg.text}
               </p>
