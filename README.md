@@ -7,11 +7,9 @@ Supports one-to-one chat, image sharing, online status, unread messages, and res
 
 ## 🚀 Live Demo
 
-- **Frontend Live Link:**  
-  👉 [https://your-frontend-live-link.com](https://mern-chat-application-sepia.vercel.app/)
-
-- **Backend API Live Link:**  
-  👉[ https://your-backend-live-link.com](https://backend-mern-chat-application.onrender.com/)
+- **Live Link:**  
+  👉 [https://your-frontend-live-link.com](https://mern-chat-application-sepia.vercel.app)
+  
   
 <img width="1918" height="1014" alt="Screenshot 2026-02-05 004622" src="https://github.com/user-attachments/assets/fb8b8312-3222-4560-8110-ced371688839" />
 
@@ -53,7 +51,7 @@ Supports one-to-one chat, image sharing, online status, unread messages, and res
 ---
 
 ## 📁 Project Structure
-
+```
 root
 │
 ├── frontend
@@ -71,7 +69,7 @@ root
 │ ├── routes
 | ├── middleware
 |  └── server.js
-
+```
 
 ---
 
@@ -80,8 +78,9 @@ root
 
 ### 🔹 Clone the repository
 ```bash
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/mohadkaif122344/MERN-Chat-Application.git
 cd chat-app
+```
 🔹 Frontend Setup
 cd frontend
 npm install
